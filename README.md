@@ -3,6 +3,7 @@ Developed from the materials of NYU Poly's old Penetration Testing and Vulnerabi
 
 Hack Night culminates in a practical application of the skills and techniques taught, students complete a research project inspired by one of the lectures or exercise materials. By the end of the course, each student is expected to have a good understanding of all topics and a mastery of at least one topic.
 
+Regardless if you are an aspiring hacker or a programmer, an introduction to cyber security is an essential step in your career. Hack Night will provide you with a wide variety of content, external resources and help to assist you in your development of cyber security knowledge.
 
 ### Suggested Reading
 Material you should take a glance at to have an idea of what you will be learning about. We may reference some of these resources to direct you if you have further questions outside of Hack Night.
