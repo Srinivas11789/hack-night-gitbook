@@ -5,6 +5,12 @@ its inception.
 
 Before diving into the Hack Night semester, we recommend you take a look at the resources below and become familiar with some of the material.
 
+### Using Linux
+1. Ubuntu ISO - http://www.ubuntu.com/download/desktop
+2. Virutal Machine - http://www.howtogeek.com/196060/beginner-geek-how-to-create-and-use-virtual-machines/
+3. Using Terminal - http://www.ee.surrey.ac.uk/Teaching/Unix/
+
+
 ### Lecture Materials
 1. [Trends in Vulnerability Disclosure](http://vimeo.com/48914102)
 2. [Intrusion via Web Application Flaws](http://vimeo.com/14983596)
