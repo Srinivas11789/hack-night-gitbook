@@ -1,2 +1,2 @@
 # Reverse Engineering
--- Stub --
+If you are given source code, you have exactly what the developer saw when they were developing the program. When a programmer goes to publish his program, he will usually distribute *binaries*, or compiled forms of his source code meant to be interpreted by an operating system (see [compilers]()). Now programmers usually don't want people to have access to their code because this could lead to other people copying their code or analyzing it and determining how to exploit it on other people's computers who have the computer. After compiling source code, an *executable* program is created which is considered a *binary* file as it consists primarily of bytes which will be interpreted as *operation codes* by your computer.
