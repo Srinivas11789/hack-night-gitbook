@@ -13,6 +13,9 @@ Pico CTF Python Eval
 2. https://2013.picoctf.com/problems/pyeval/stage2.html
 3. https://2013.picoctf.com/problems/pyeval/stage3.html
 
+Vulnerable Python Programs
+1. https://github.com/isislab/Hack-Night/tree/master/2015-Spring/workshops/week2
+
 ### Resources
 1. [Source Code Analysis](https://github.com/isislab/Project-Ideas/wiki/Source-Code-Analysis)
 2. [Application Security](https://github.com/isislab/Project-Ideas/wiki/Application-Security)
