@@ -16,6 +16,13 @@ Pico CTF Python Eval
 Vulnerable Python Programs
 1. https://github.com/isislab/Hack-Night/tree/master/2015-Spring/workshops/week2
 
+### Real World Vulnerabilities
+1. [Linux backdoor attempt](https://freedom-to-tinker.com/blog/felten/the-linux-backdoor-attempt-of-2003/)
+2. [Heartbleed](http://www.theregister.co.uk/2014/04/09/heartbleed_explained/)
+    * http://xkcd.com/1354/
+    * http://asecuritysite.com/Encryption/heart2
+3. [Shellshock](http://www.troyhunt.com/2014/09/everything-you-need-to-know-about.html)
+
 ### Resources
 1. [Source Code Analysis](https://github.com/isislab/Project-Ideas/wiki/Source-Code-Analysis)
 2. [Application Security](https://github.com/isislab/Project-Ideas/wiki/Application-Security)
