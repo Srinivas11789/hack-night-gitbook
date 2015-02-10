@@ -6,6 +6,10 @@ the skills that you have learned last week to efficiently go over the process of
 1. [Code Auditing 102](http://vimeo.com/29702192/) [[slides](https://github.com/isislab/Hack-Night/blob/master/2014-Fall/slides/code_audits_2_fall2011.pdf?raw=true)]
 
 ### Workshop Materials
+#### What we will be covering
+1. Memory Corruption Examples
+
+#### Material we might cover
 1. [News Paper](https://github.com/isislab/Hack-Night/blob/master/2014-Fall/workshops/week3/news_server.c):
 This network service simulates a text-based terminal application. The general purpose of the application is to act as a "news server" or text file service. These are two types of users: regular and administrator. Administrators can add users and execute back-end system commands. Users can view and contribute articles (aka text files). Assume the application runs on Linux and is compiled with gcc. ([Simple Usage](https://github.com/isislab/Hack-Night/blob/master/2014-Fall/workshops/week3/news_install.sh))
 2. [Siberia Crimeware Pack](https://github.com/isislab/Hack-Night/blob/master/2014-Fall/workshops/week3/siberia.zip?raw=true): (Password: infected)
