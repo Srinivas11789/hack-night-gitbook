@@ -3,10 +3,6 @@ This session will cover Code Auditing. Code Auditing an application is the proce
 might exploit. By going through this process, you can identify and close security holes that would otherwise put sensitive data and business resources at unnecessary risk.
 Topics that will be covered are Identifying Architectural, Implementation and Operational vulnerabilities.
 
-### Lecture Materials
-1. [Design & Operational Reviews](http://vimeo.com/29082852/) [[slides](https://github.com/isislab/Hack-Night/blob/master/2014-Fall/slides/design_review_fall2011.pdf?raw=true)]
-2. [Code Auditing 101](http://vimeo.com/30001189/) [[slides](https://github.com/isislab/Hack-Night/blob/master/2014-Fall/slides/code_audits_1_fall2011.pdf?raw=true)]
-
 ### Workshop Materials
 Pico CTF Python Eval
 1. https://2013.picoctf.com/problems/pyeval/stage1.html
