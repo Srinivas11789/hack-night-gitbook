@@ -3,7 +3,8 @@ This week we will continue with the final video on Code Auditing, and provide yo
 the skills that you have learned last week to efficiently go over the process of auditing applications.
 
 ### Lecture Materials
-1. [Code Auditing 102](http://vimeo.com/29702192/) [[slides](https://github.com/isislab/Hack-Night/blob/master/2014-Fall/slides/code_audits_2_fall2011.pdf?raw=true)]
+1. [Code Auditing 101](http://vimeo.com/30001189/) [[slides](https://github.com/isislab/Hack-Night/blob/master/2014-Fall/slides/code_audits_1_fall2011.pdf?raw=true)]
+2. [Code Auditing 102](http://vimeo.com/29702192/) [[slides](https://github.com/isislab/Hack-Night/blob/master/2014-Fall/slides/code_audits_2_fall2011.pdf?raw=true)]
 
 ### Workshop Materials
 #### What we will be covering
