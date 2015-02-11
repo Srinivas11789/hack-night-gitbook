@@ -9,6 +9,8 @@ the skills that you have learned last week to efficiently go over the process of
 ### Workshop Materials
 #### What we will be covering
 1. [Memory Corruption Examples]( https://github.com/isislab/Hack-Night/tree/master/2015-Spring/workshops/week3/memory_corruption)
+2. https://picoctf.com/binary_demo/binary_demo.html#1
+3. 
 
 #### Material we might cover
 1. [News Paper](https://github.com/isislab/Hack-Night/blob/master/2014-Fall/workshops/week3/news_server.c):
