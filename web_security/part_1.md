@@ -5,7 +5,8 @@ This session will cover web hacking. This session is about getting familiarity w
 1. [Web Hacking 101](http://vimeo.com/32509769) [[slides](https://github.com/isislab/Hack-Night/blob/master/2014-Fall/slides/WebHackingDay1-2011.pdf?raw=true)]
 
 ### Workshop Materials
-1. [Google Gruyere](http://google-gruyere.appspot.com/)
+1. ISIS Lab's Giraffe
+2. [Google Gruyere](http://google-gruyere.appspot.com/)
 
 
 ### Resources
