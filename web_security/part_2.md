@@ -8,7 +8,7 @@ In this session, we will continue with the second video on Web Hacking.  We will
 1. [OWASP WebGoat](https://www.owasp.org/index.php/Category:OWASP_WebGoat_Project)
 2. [Damn Vulnerable Web Application](http://www.dvwa.co.uk/)
 3. SQLi Injection Tutorials
-    * isislab.gitbooks.io/hack-night/content/SQLi.pdf
+    * [White Hat Academy](http://www.whitehatacademy.club/examples/SQLi.pdf)
 4. Phubble
 
 
