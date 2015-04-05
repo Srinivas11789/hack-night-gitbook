@@ -17,3 +17,4 @@ In this session we will cover [Introductory Intel x86: Architecture, Assembly, A
 7. [Reverse Engineering](https://github.com/isislab/Project-Ideas/wiki/Reverse-Engineering)
 8. [nasm](http://www.nasm.us/)
 9. [x86 Intel Manuals](http://www.intel.com/content/www/us/en/processors/architectures-software-developer-manuals.html)
+10. [Rensselaer Institute's Secure Software Principles](http://www.cs.rpi.edu/academics/courses/spring10/csci4971/)
